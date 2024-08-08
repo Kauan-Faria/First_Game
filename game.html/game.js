@@ -6,7 +6,7 @@ let spaceship = {
     y: canvas.height - 60,
     width: 50,
     height: 50,
-    speed: 10,
+    speed: 15,
     image: new Image()
 };
 
